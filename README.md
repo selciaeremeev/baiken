@@ -1,2 +1,2 @@
 # baiken
-This repository is a script that gets http proxy data from https: // free-proxy-list.net
+This repository is scraping http proxies for https://free-proxy-list.net
